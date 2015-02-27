@@ -1,2 +1,4 @@
-# shaman
-Command Prompt Cryptography script.
+shaman
+===================
+
+experimental source
